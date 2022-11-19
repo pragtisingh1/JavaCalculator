@@ -45,3 +45,14 @@ public class Calculator {
 	}
 	
 }
+/**
+ * Instantiates a new read excel.
+ *
+ * @param filePath the file path
+ */
+/**
+ * Modified the file for lab session 2.
+ * file modified
+ *
+ * @param filePath the file path
+ */
